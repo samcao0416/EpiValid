@@ -1,0 +1,5 @@
+{
+    "intrs": "D:/NeuDim/NeuDim_Paper/Skd_Dataset&BenchMark/LargeScenePaperTools/utils/EpiValid-data/data/K.txt",
+    "c2ws": "D:/NeuDim/NeuDim_Paper/Skd_Dataset&BenchMark/LargeScenePaperTools/utils/EpiValid-data/data/RT_c2w.txt",
+    "res": "D:/NeuDim/NeuDim_Paper/Skd_Dataset&BenchMark/LargeScenePaperTools/utils/EpiValid-data/data/whs.txt"
+}
